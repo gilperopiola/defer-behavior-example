@@ -26,4 +26,4 @@ func fnWithDeferredGoroutine() {
 			print("2")
 		}()
 	}()
-}```
+}
